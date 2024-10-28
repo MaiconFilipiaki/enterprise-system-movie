@@ -43,7 +43,7 @@ describe('VideoController (e2e)', () => {
         description: 'This is a test video',
         videoUrl: 'uploads/test.mp4',
         thumbnailUrl: 'uploads/test.jpg',
-        sizeInKb: 1430145,
+        sizeInKb: 328159,
         duration: 100,
       };
 
@@ -71,7 +71,7 @@ describe('VideoController (e2e)', () => {
         description: 'This is a test video',
         videoUrl: 'uploads/test.mp4',
         thumbnailUrl: 'uploads/test.jpg',
-        sizeInKb: 1430145,
+        sizeInKb: 328159,
         duration: 100,
       };
 
